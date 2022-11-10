@@ -1,4 +1,5 @@
-![tux-sensefons](https://user-images.githubusercontent.com/113675350/201093436-3afc4376-f830-4c93-b54f-ea971dec14af.gif)
+
+![tux1](https://user-images.githubusercontent.com/113675350/201113458-5225e99c-4bfb-4292-8018-c8e0ba4becd1.gif)
 
 
 <!--
