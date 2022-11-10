@@ -1,6 +1,5 @@
 ## daw2 🐧
 
-![linux-tux](https://user-images.githubusercontent.com/113675350/201114745-14622f7b-5a6e-4b88-8ccf-90a93cc06dee.gif)
 ![tux-ordinador](https://user-images.githubusercontent.com/113675350/201115963-9f12f2a4-eb29-458d-b46d-5f449a435ff3.gif)
 
 
