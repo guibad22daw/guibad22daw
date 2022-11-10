@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+![linux-tux](https://user-images.githubusercontent.com/113675350/201092694-249f8fd8-de4c-4ad5-b7c8-215ab23752e4.gif)
+
 
 <!--
 **guibad22daw/guibad22daw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
