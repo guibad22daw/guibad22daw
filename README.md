@@ -1,6 +1,4 @@
-
-
-![linux-tux](https://user-images.githubusercontent.com/113675350/201092694-249f8fd8-de4c-4ad5-b7c8-215ab23752e4.gif)
+![tux-sensefons](https://user-images.githubusercontent.com/113675350/201093436-3afc4376-f830-4c93-b54f-ea971dec14af.gif)
 
 
 <!--
