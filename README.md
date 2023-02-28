@@ -1,4 +1,4 @@
-## daw2 🐧
+## DAW2 🐧
 
 ![tux-ordinador](https://user-images.githubusercontent.com/113675350/201115963-9f12f2a4-eb29-458d-b46d-5f449a435ff3.gif)
 
